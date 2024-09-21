@@ -33,6 +33,9 @@ Areas: null
 [GoFly ,V2ray,Trojan,sock5\_4.5.1\_APKPure.zip - 蓝奏云](https://www.lanzoub.com/iRFWy216gp4f)
 [Every Proxy\_14.1\_APKPure.zip - 蓝奏云](https://www.lanzoub.com/iOVwf216gphi)
 [Android Proxy Server\_8.7\_APKPure.zip - 蓝奏云](https://www.lanzoub.com/iWJu2216gpub)
+# PC 浏览器代理插件
+[FoxyProxy](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp)
+[Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif)
 # 其他软件
 
 |        APP        | 功能                                                                                                                                          |
